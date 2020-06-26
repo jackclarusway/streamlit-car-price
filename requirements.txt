@@ -36,7 +36,6 @@ nbformat==5.0.7
 notebook==6.0.3
 numpy==1.18.5
 packaging==20.4
-pandas @ file:///C:/ci/pandas_1592833613419/work
 pandocfilters==1.4.2
 parso==0.7.0
 pathtools==0.1.2
